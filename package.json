@@ -26,7 +26,8 @@
     "README.md",
     "README_zh.md",
     "index.ts",
-    "index.d.ts"
+    "index.d.ts",
+    "gruntfile.js"
   ],
   "scripts": {
     "test": "npm run test:full",
